@@ -2,4 +2,4 @@
 
 
 read -p "Insert rate" rate;
-./interest $rate
+./interest.sh $rate
